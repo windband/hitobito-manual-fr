@@ -1,5 +1,10 @@
-# Manuel d'utilisation hitobito SBV v0.0.0
+# hitobito-manual
+Handbuch hitobtio des SBV
 
-## documents
+## Read the document here:
+  * Click [here](http://hitobito-manual-sbv.readthedocs.io/) for the latest formatted release of the document at readthedocs.io.
+  * Click [here](docs/README.md) for the local version of the document in Markdown format.
 
-- [User Guide](user-guide.md)
+## Resources
+ * https://markdown-publishing-guide.readthedocs.io/
+ * https://squidfunk.github.io/mkdocs-material/reference/admonitions/
