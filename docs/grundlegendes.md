@@ -25,7 +25,7 @@ Les personnes disposant de l'autorisation `Mitglieder → Mitglied` ne peuvent v
 
 Les associations cantonales et régionales ont également d'autres groupes et rôles. Pour un aperçu complet de tous les groupes et rôles possibles, consultez l'Annexe 1 : Groupes et rôles.
 
-## intimité
+## Intimité
 
 Les données de hitobito ne peuvent être utilisées que dans le cadre des activités de la SBV et de ses associations cantonales ou de votre propre association. En principe, les données personnelles de tiers ne peuvent pas être transmises à des tiers ou à d'autres organisations. La SBV ne transmet aucune donnée à des tiers sans le consentement de la personne concernée.
 
